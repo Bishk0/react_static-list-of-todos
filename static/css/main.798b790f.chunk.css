@@ -1,0 +1,2 @@
+html{font-family:Verdana,Tahoma,sans-serif}.title{text-align:center;color:#344334}.content{display:flex;flex-wrap:wrap;grid-gap:5px;gap:5px;justify-content:center}.user{font-style:italic}.todo{padding:15px;display:flex;flex-direction:column;grid-gap:10px;gap:10px;width:420px;border:1px solid;border-radius:3px;background:#fdf5e6}.todo__title{font-size:20px;font-weight:500}.todo__title:first-letter{text-transform:uppercase}.todo__status{font-weight:600}
+/*# sourceMappingURL=main.798b790f.chunk.css.map */
